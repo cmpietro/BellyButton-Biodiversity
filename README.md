@@ -1,7 +1,6 @@
 # BellyButton-Biodiversity
 Homework for Plotly / JS and other dynamic visualizations
 
-Updating as an example. 
 
 Review BellyButtonDiversity GUIDE.xlsx for screenshot and outline of process and code.  
 
